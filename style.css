@@ -191,8 +191,8 @@ html body{
     
 }
 #about img{
-    width: 25vw;
-    height: 25vw;
+    width: 30vw;
+    height: 35vh;
     border-radius: 50%;
     object-fit: cover;
     object-position: top;

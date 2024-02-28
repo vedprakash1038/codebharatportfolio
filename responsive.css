@@ -53,6 +53,10 @@
         height: 45vh;
         
     }
+    #about img{
+        width:40vw;
+        height: 28vh;
+    }
 }
 
 @media (min-width: 445px) and (max-width: 768px) {
