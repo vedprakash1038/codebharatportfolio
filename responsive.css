@@ -15,7 +15,9 @@
     #heading #heading2 {
         margin-top: 5rem;
     }
-
+    #home{
+        height: 74vh;
+    }
     #second{
         height: 40vh;
     }
@@ -79,7 +81,9 @@
         height: 45vh;
         
     }
-
+    #home{
+        height: 80vh;
+    }
     #about {
         padding: 59px;
     }
